@@ -1,1 +1,3 @@
 this is my first test file to commit to GitHub
+
+step 2 to test making changes to orignal text is here.
